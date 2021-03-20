@@ -10,7 +10,7 @@ ha_platforms:
   - cover
 ---
 
-The `aladdin_connect` cover platform lets you control Genie Aladdin Connect garage doors through Home Assistant.
+The `aladdin_connect` cover platform lets you control Genie Aladdin Connect garage doors through Home Assistant. This integration also works with the OHDAnywhere platform from Overhead Door Company.
 
 <div class='note'>
 Only doors that are owned by your Aladdin Connect account will be available. Doors that your account has been granted shared access to are not yet supported.
